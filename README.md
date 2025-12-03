@@ -1,33 +1,26 @@
-# About me
-<!-- Toggle back to "Edit" view -->
+# 👋 Hi, I'm Dorin Primac!
 
-<!-- Line 1 -->
-<!-- Line 2 -->
+## 🏠 About Me
+- 📍 Location: Chisinau, Moldova  
+- 🎂 Age: 19  
 
-<!-- Line 3 deleted -->
+## 💻 Skills
+- **Web Development:** HTML, CSS, JavaScript  
+- **Programming:** Python, Bash scripting  
+- 🛠️ Mechanics: Engine repair, motorcycle tuning  
 
-<!-- Line 4 -->
-<p>Name: Dorin Primac</p>
+## 🎯 Interests
+- 🏍️ Motorcycles & ATV riding  
+- 💡 Tech projects & coding experiments  
+- 🎮 Gaming & strategy games  
+- 📚 Reading tech blogs  
 
-<!-- Line 5 -->
-<p>Age: 19</p>
+## 🎉 Fun Facts
+- 🔧 I love building small projects to learn new coding techniques  
+- 🚀 Always trying to combine coding with real-life mechanical projects  
 
-<!-- Line 6 -->
-<p>Location: Chisimau, Moldova</p>
+## 🌟 Hobbies
+- 🛠️ Repairing engines in my garage  
+- 🎨 Experimenting with web design  
+- 📷 Occasionally take photos of motorcycles  
 
-<!-- Line 7 -->
-<p>Interests: Motorcycles, programming, web development</p>
-
-<!-- Line 8 -->
-<p>Skills: HTML, CSS, JavaScript, Python</p>
-
-<!-- Line 9 -->
-<p>Hobbies: Repairing engines, gaming, reading tech blogs</p>
-
-<!-- Line 10 -->
-<p>Fun Fact: I love to build small projects to learn new coding techniques</p>
-
-<!-- Lines 11-15: You can add more prompts or delete as needed -->
-<!-- Line 16 deleted -->
-
-<!-- End of editable content -->
