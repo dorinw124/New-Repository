@@ -13,7 +13,7 @@
 <p>Age: 20</p>
 
 <!-- Line 6 -->
-<p>Location: Ungheni, Moldova</p>
+<p>Location: Chisimau, Moldova</p>
 
 <!-- Line 7 -->
 <p>Interests: Motorcycles, programming, web development</p>
